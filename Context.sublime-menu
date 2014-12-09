@@ -1,0 +1,12 @@
+[ 
+	{
+		"command": "mvc_copy_file_name",
+		"caption": "Copy File Name",
+		"args": {
+			"type": ""
+		}
+	}
+]
+
+
+

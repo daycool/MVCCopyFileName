@@ -1,0 +1,31 @@
+[{
+	"keys": ["alt+c"],
+	"command": "mvc_copy_file_name",
+	"args": {
+		"type": ""
+	}
+}, {
+	"keys": ["alt+c", "h"],
+	"command": "mvc_copy_file_name",
+	"args": {
+		"type": "html"
+	}
+}, {
+	"keys": ["alt+c", "j"],
+	"command": "mvc_copy_file_name",
+	"args": {
+		"type": "js"
+	}
+}, {
+	"keys": ["alt+c", "cc"],
+	"command": "mvc_copy_file_name",
+	"args": {
+		"type": "css"
+	}
+}, {
+	"keys": ["alt+c", "c"],
+	"command": "mvc_copy_file_name",
+	"args": {
+		"type": "css"
+	}
+}]
