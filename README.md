@@ -5,9 +5,9 @@ MVCCopyFileName
 
 使用方法
 ===============
-alt+c连按两次 搜索文件并输入当前文件名 （复制当前文件名，然后按Ctrl+p，然后Ctrl+v）
-alt+c, j 文件名加.js
-alt+c, h 文件名加.html
-alt+c, c 文件名加.css
 
-
+1. alt+c连按两次 搜索文件并输入当前文件名 （复制当前文件名，然后按Ctrl+p，然后Ctrl+v）
+2. alt+c, j 文件名加.js
+3. alt+c, h 文件名加.html
+4. alt+c, c 文件名加.css
+5. 右键选择Copy File Name
