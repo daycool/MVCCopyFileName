@@ -3,7 +3,9 @@
 	"command": "mvc_copy_file_name",
 	"args": {
 		"type": ""
-	}
+	},
+	"context": [{"key": "copy_file_name", "operator":"equal", "operand":true}]
+
 }, {
 	"keys": ["alt+c", "h"],
 	"command": "mvc_copy_file_name",
@@ -17,7 +19,7 @@
 		"type": "js"
 	}
 }, {
-	"keys": ["alt+c", "cc"],
+	"keys": ["alt+c", "c"],
 	"command": "mvc_copy_file_name",
 	"args": {
 		"type": "css"

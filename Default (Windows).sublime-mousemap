@@ -1,0 +1,11 @@
+[
+	{
+		"button": "button1", "count": 1,
+		"modifiers": ["alt"],
+		"command": "mouse_left_click",
+		"args": {"type": ""}
+
+	}
+]
+
+

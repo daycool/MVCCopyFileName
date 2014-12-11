@@ -1,0 +1,20 @@
+//使用requirejs配置结构
+{
+	"op17shihui": {
+		// "projectName": "",//右侧目录名
+		"baseUrl": "",
+		"paths": {
+			"jquery": "../libs/jquery/dist/jquery.min"
+		},
+		"packages": [{
+			"name": "common",
+			"location": "./shihui/common"
+		}, {
+			"name": "modules",
+			"location": "./shihui/module"
+		}, {
+			"name": "interface",
+			"location": "./shihui/interface"
+		}]
+	}
+}
