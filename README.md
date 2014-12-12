@@ -11,3 +11,6 @@ MVCCopyFileName
 3. alt+c, h 文件名加.html
 4. alt+c, c 文件名加.css
 5. 右键选择Copy File Name
+
+	新增：
+6.添加alt+鼠标左键打开文件，支持requrejs
